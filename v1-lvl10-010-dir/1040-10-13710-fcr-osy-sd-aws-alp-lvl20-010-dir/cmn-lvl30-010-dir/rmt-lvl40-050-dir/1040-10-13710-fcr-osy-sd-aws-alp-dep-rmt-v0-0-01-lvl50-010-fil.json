@@ -1,1 +1,10 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "alp-1040-10-osy-sd-aws",
+  "fqridKEY": "1040-10-13710-fcr-osy-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1040-10-13710-fcr-osy-sd-aws-leg-sd-dep-stk-v0-0-01-lvl60-020-fil.py",
+  "deploymentOrderNumber13700KEY": "13710",
+  "deletionProtectionFlag13700KEY": "none"
+}
